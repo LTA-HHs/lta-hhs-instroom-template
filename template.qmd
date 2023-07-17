@@ -1,12 +1,7 @@
 ---
 title: Untitled
 format:
-  lta-hhs-instroom-template-pdf: 
-    format-resources:
-      - 01_Backgrounds/LTA-fairness-pionnen-compressed.pdf
-      - 01_Backgrounds/LTA-standingman-compressed.pdf
-      - 01_Backgrounds/LTA-wood-annual-rings-compressed.pdf
-      - 01_Backgrounds/LTA-woodcarving-compressed.pdf
+  lta-hhs-instroom-template-pdf: default
 author: tcbakker
 date: last-modified
 ---
