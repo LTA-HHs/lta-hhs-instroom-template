@@ -5,7 +5,7 @@
 *TODO*: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
-quarto use template <github-organization>/lta-hhs-instroom-template
+quarto use template lta-hhs/lta-hhs-instroom-template
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
