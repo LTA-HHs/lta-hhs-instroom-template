@@ -1,0 +1,21 @@
+---
+title: Untitled
+format:
+  lta-hhs-instroom-template-pdf: 
+    format-resources:
+      - 01_Backgrounds/LTA-fairness-pionnen-compressed.pdf
+      - 01_Backgrounds/LTA-standingman-compressed.pdf
+      - 01_Backgrounds/LTA-wood-annual-rings-compressed.pdf
+      - 01_Backgrounds/LTA-woodcarving-compressed.pdf
+author: tcbakker
+date: last-modified
+---
+
+## Introduction
+
+*TODO* Create an example file that demonstrates the formatting and features of your format.
+
+## More Information
+
+You can learn more about controlling the appearance of PDF output here: <https://quarto.org/docs/output-formats/pdf-basics.html>
+
